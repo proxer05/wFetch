@@ -3,7 +3,7 @@ Minimalistic fetch tool based on "Windows Screenfetch" by Julian Chow
 
 ### Installation
 
-Clone this repo `git clone https://github.com/proxer05/wFetch | cd wfetch` and run installation script `& '.\wFetch install.ps1'`
+Clone this repo `git clone https://github.com/proxer05/wFetch` and `cd wfetch` and run installation script `& '.\wFetch install.ps1'`
 
 ### Uninstallation
 
